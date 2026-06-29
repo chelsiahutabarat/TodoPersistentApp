@@ -1,4 +1,4 @@
-## Deskripsi app & daftar fitur
+<img width="739" height="1600" alt="WhatsApp Image 2026-06-29 at 18 15 44" src="https://github.com/user-attachments/assets/1a6b4527-4b08-4c20-bf0d-132bd515e9f4" />## Deskripsi app & daftar fitur
 Aplikasi Todo Persistent App merupakan aplikasi mobile berbasis React Native (Expo) yang digunakan untuk mencatat daftar kegiatan (To-Do List). Aplikasi ini mendukung operasi CRUD (Create, Read, Update, Delete) dengan penyimpanan data menggunakan AsyncStorage, sehingga data tetap tersimpan meskipun aplikasi ditutup atau perangkat dimatikan.
 
 ## Level 1 (Core Features)
@@ -57,8 +57,9 @@ Buka aplikasi Expo Go, lalu scan QR Code yang muncul pada terminal atau browser.
 <img width="739" height="1600" alt="WhatsApp Image 2026-06-29 at 18 15 45" src="https://github.com/user-attachments/assets/28e57a0d-7b5d-4252-aa6c-ab7b9dabff57" />
 
 # Fitur Dark Mode
-<img width="739" height="1600" alt="WhatsApp Image 2026-06-29 at 18 15 45 (1)" src="https://github.com/user-attachments/assets/0a5c309f-d4ae-47a1-9369-48a0bdd64251" />
+<img width="739" height="1600" alt="WhatsApp Image 2026-06-29 at 18 15 44" src="https://github.com/user-attachments/assets/4f16b48b-a279-473b-b0a7-0ed96e1fc09e" />
 
 # Bukti Persistensi
-<img width="739" height="1600" alt="WhatsApp Image 2026-06-29 at 18 15 44" src="https://github.com/user-attachments/assets/2e229da9-dc6f-4f93-a165-b154c7107703" />
+<img width="739" height="1600" alt="WhatsApp Image 2026-06-29 at 18 15 45 (1)" src="https://github.com/user-attachments/assets/de8bb328-4002-4d94-b8cf-4b499ee478f1" />
+
 <img width="739" height="1600" alt="WhatsApp Image 2026-06-29 at 18 26 45" src="https://github.com/user-attachments/assets/6317c5e9-dbe2-4d56-8605-9e754e12b556" />
