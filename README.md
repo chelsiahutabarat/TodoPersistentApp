@@ -32,7 +32,7 @@ Menghapus seluruh daftar todo sekaligus.
 Data pada AsyncStorage ikut dihapus.
 
 ## Level 3 (Bonus)
-📂 Kategori / Tag
+ Kategori / Tag
 Setiap todo memiliki kategori, misalnya:
 Kuliah
 Pribadi
@@ -60,6 +60,4 @@ Buka aplikasi Expo Go, lalu scan QR Code yang muncul pada terminal atau browser.
 <img width="739" height="1600" alt="WhatsApp Image 2026-06-29 at 18 15 44" src="https://github.com/user-attachments/assets/4f16b48b-a279-473b-b0a7-0ed96e1fc09e" />
 
 # Bukti Persistensi
-<img width="739" height="1600" alt="WhatsApp Image 2026-06-29 at 18 15 45 (1)" src="https://github.com/user-attachments/assets/de8bb328-4002-4d94-b8cf-4b499ee478f1" />
-
 <img width="739" height="1600" alt="WhatsApp Image 2026-06-29 at 18 26 45" src="https://github.com/user-attachments/assets/6317c5e9-dbe2-4d56-8605-9e754e12b556" />
