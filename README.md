@@ -1,4 +1,4 @@
-<img width="739" height="1600" alt="WhatsApp Image 2026-06-29 at 18 15 44" src="https://github.com/user-attachments/assets/1a6b4527-4b08-4c20-bf0d-132bd515e9f4" />## Deskripsi app & daftar fitur
+## Deskripsi app & daftar fitur
 Aplikasi Todo Persistent App merupakan aplikasi mobile berbasis React Native (Expo) yang digunakan untuk mencatat daftar kegiatan (To-Do List). Aplikasi ini mendukung operasi CRUD (Create, Read, Update, Delete) dengan penyimpanan data menggunakan AsyncStorage, sehingga data tetap tersimpan meskipun aplikasi ditutup atau perangkat dimatikan.
 
 ## Level 1 (Core Features)
