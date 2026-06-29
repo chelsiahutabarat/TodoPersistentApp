@@ -55,8 +55,10 @@ Buka aplikasi Expo Go, lalu scan QR Code yang muncul pada terminal atau browser.
 ## Screenshot
 # Halaman Utama
 <img width="739" height="1600" alt="WhatsApp Image 2026-06-29 at 18 15 45" src="https://github.com/user-attachments/assets/28e57a0d-7b5d-4252-aa6c-ab7b9dabff57" />
+
 # Fitur Dark Mode
 <img width="739" height="1600" alt="WhatsApp Image 2026-06-29 at 18 15 45 (1)" src="https://github.com/user-attachments/assets/0a5c309f-d4ae-47a1-9369-48a0bdd64251" />
+
 # Bukti Persistensi
 <img width="739" height="1600" alt="WhatsApp Image 2026-06-29 at 18 15 44" src="https://github.com/user-attachments/assets/2e229da9-dc6f-4f93-a165-b154c7107703" />
 <img width="739" height="1600" alt="WhatsApp Image 2026-06-29 at 18 26 45" src="https://github.com/user-attachments/assets/6317c5e9-dbe2-4d56-8605-9e754e12b556" />
